@@ -92,6 +92,6 @@ if __name__ == "__main__":
     #     print(m)
 
     apmc = "Ramanagara"  # Example APMC market
-    print(f"Fetching betelnut prices for {apmc} APMC...\n")
+    print(f"Fetching prices for {apmc} APMC...\n")
     get_agmarknet_price(apmc,"Green Chilli")
     # get_enam_price(apmc)
